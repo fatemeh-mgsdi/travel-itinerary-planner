@@ -1,7 +1,5 @@
 # Travel Itinerary Planner
 
-![Travel Itinerary Planner Banner](https://via.placeholder.com/800x200?text=Travel+Itinerary+Planner)
-
 ## 📝 Overview
 
 Travel Itinerary Planner is an AI-powered web application built with Streamlit and CrewAI that helps users generate personalized travel itineraries. The application creates detailed day-by-day plans based on user preferences, including destination, duration, travel style, and specific interests.
